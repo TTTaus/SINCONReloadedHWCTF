@@ -20,7 +20,7 @@ We got the answer: **368078**
 
 Entering this will trigger the lift, and are the same for the challenges that follows until the challenge is over:
 
-![Success](nextchallenge,png)
+![Success](nextchallenge.png)
 
 `Success! The elevator is now unlocked.  
 Ting! Select your floor.  
