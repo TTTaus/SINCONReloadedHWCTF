@@ -1,7 +1,7 @@
 # SINCONReloadedHWCTF
 SINCON Reloaded or SINCON 2023 concluded last week, which was conducted over 2 days - 5th and 6th of January 2023. All full access pass holders were entitled to an exclusive electronic hardware badge which included a mini CTF. Comprising of 7 challenges, after resolving each challenge, more LED lights were lighted upon the board, depending on which challenge you did.
 
-The hardware CTF revolved around the story of SINCON's sponsor - Khong Guan Biscuits Limited, in which the beautiful electronic badge was (physically) designed against. 
+The hardware CTF is based on [ABOV A96S174](https://www.abov.co.kr/document/viewer.php?file=1578386021_l1.pdf&d_it_id=1578386021&fileName=DS_A96x174_Eng.pdf&it_id=&ca_id=A0&language=kr) chipset and its design revolved around the story of SINCON's sponsor - Khong Guan Biscuits Limited, in which the beautiful electronic badge was (physically) designed against. 
 
 The original board, once inserted with the CR2032 battery, looks and lights up with 3 LEDs as seen below:
 ![Front](PXL_20230105_075401012.jpg)
